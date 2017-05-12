@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  prize: 9.99
+  quantity: 1
+  size: MyString
+  extraToppings: false
+  billAmount: 9.99
+
+two:
+  name: MyString
+  prize: 9.99
+  quantity: 1
+  size: MyString
+  extraToppings: false
+  billAmount: 9.99
